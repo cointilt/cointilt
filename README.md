@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Will Ayers also known as @cointilt
 - 👀 I’m interested in Javascript, NFTs, blockchain
-- 🌱 I’m currently learning NextJS 13 and Remix
-- 💞️ I’m looking to collaborate on some web3 in the future (still learnign web3) https://cointilt.dev
+- 🌱 I’m currently learning and Remix (so fun!) and python.
+- 💞️ I’m diving into the world of web3 development.
 - 📫 How to reach me http://twitter.com/cointilt (DM or @ me)
 
 <!---
